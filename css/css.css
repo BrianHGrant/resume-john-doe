@@ -1,0 +1,25 @@
+.header {
+  text-align: center;
+  font-size: 35px;
+  font-family: monospace;
+  color: blue;
+}
+
+.body {
+  text-align: left;
+  font-size: 18px;
+  font-family: serif;
+  color: black;
+}
+
+.body h2 {
+  font-size: text-align: left;
+  font-size: 18px;
+  font-family: serif;
+  color: black;
+  font-weight: bold;
+}
+
+.job-title {
+  font-weight: bold;
+}
